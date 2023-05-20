@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "FSM",
+	"Description": "Simple Finite State Machine via Gameplay Tags",
+	"Category": "Other",
+	"CreatedBy": "Altray Digital",
+	"CreatedByURL": "https://www.youtube.com/@AltrayDigital",
+	"DocsURL": "https://youtu.be/YSOAKnnS8iw",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "FSM",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
